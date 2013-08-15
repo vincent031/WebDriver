@@ -1,5 +1,3 @@
-先来个例子看看；
-
 　　public class Man
 
 　　{
